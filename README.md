@@ -44,6 +44,6 @@ Traitement et nettoyage des données.
 Analyse et visualisation des résultats.
 
 ## Contributeurs
-Jean JACOB
-Félix DE GUERRE
+Jean JACOB,
+Félix DE GUERRE,
 Sofiene TAAMOUTI
