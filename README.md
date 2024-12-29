@@ -7,41 +7,31 @@ L'objectif principal est d'évaluer comment les risques d'inondation influencent
 ## Structure du Répertoire
 Le répertoire est organisé en plusieurs dossiers et fichiers principaux :
 
-. DVF Processing/ : Scripts pour le traitement des données des "Demandes de Valeurs Foncières" (DVF).
+[TRI API Processing](https://github.com/Jeanjacob20/Python-For-Data-Science-Project/tree/main/TRI%20API%20Processing%20) : Scripts pour l'extraction et le traitement des données via l'API des Territoires à Risque d'Inondation (TRI).
 
-Shapefile processing/ : Scripts pour le traitement des fichiers shapefile contenant des données géographiques.
+[TRI Shapefile Processing](https://github.com/Jeanjacob20/Python-For-Data-Science-Project/tree/main/TRI%20Shapefile%20Processing) : Scripts pour le traitement des shapefiles spécifiques aux zones TRI.
 
-[lien](https://github.com/Jeanjacob20/Python-For-Data-Science-Project/tree/main/TRI%20API%20Processing%20) : Scripts pour l'extraction et le traitement des données via l'API des Territoires à Risque d'Inondation (TRI).
+[DVF Processing]([https://github.com/Jeanjacob20/Python-For-Data-Science-Project/tree/main/TRI%20API%20Processing%20](https://github.com/Jeanjacob20/Python-For-Data-Science-Project/tree/main/DVF%20Processing)): Scripts pour le traitement des données des "Demandes de Valeurs Foncières" (DVF).
 
-TRI Shapefile Processing/ : Scripts pour le traitement des shapefiles spécifiques aux zones TRI.
+`API_Valeur_fonciere.ipyn` : Notebook Jupyter pour l'extraction des données foncières via une API dédiée.
 
-API_Valeur_fonciere.ipynb : Notebook Jupyter pour l'extraction des données foncières via une API dédiée.
+`Visualisation.ipynb` : Notebook contenant des visualisations des données traitées, illustrant l'impact des risques d'inondation sur les prix immobiliers.
+
 
 Calcul des prix en euro constant.ipynb : Notebook pour l'ajustement des prix immobiliers en euros constants, en tenant compte de l'inflation.
 
 INSEE_inflation.xlsx : Données de l'INSEE sur l'inflation, utilisées pour ajuster les prix.
 
-Visualisation.ipynb : Notebook contenant des visualisations des données traitées, illustrant l'impact des risques d'inondation sur les prix immobiliers.
-
-carte_risques_nature_legende.html : Carte interactive illustrant les zones à risque naturel, notamment les inondations, avec une légende détaillée.
-
 final_dataframe.csv : Jeu de données final consolidé, résultant des différentes étapes de traitement et d'analyse.
 
-Instructions pour l'Exécution
-Prérequis : Assurez-vous d'avoir Python installé, ainsi que les bibliothèques nécessaires telles que pandas, geopandas, requests, et matplotlib.
+### Exécution des scripts : 
+Les plusieurs dossiers qui composent le repertoire pourront être examinées de la façon suivante : 
 
-Installation des dépendances : Utilisez pip pour installer les bibliothèques requises :
-
-bash
-Copy code
-pip install pandas geopandas requests matplotlib
-Exécution des scripts : Suivez l'ordre logique des notebooks et scripts pour reproduire l'analyse :
-
-Extraction des données via les API.
-
-Traitement et nettoyage des données.
-
-Analyse et visualisation des résultats.
+I- TRI API Processing
+II- TRI Shapefile Processing
+III - DVF Processing
+IV - Main : Analyse descriptives des transactions immobilières dans le Gard.
+V- Visualisation
 
 ## Contributeurs
 Jean JACOB,
