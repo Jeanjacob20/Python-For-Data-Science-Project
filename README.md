@@ -24,16 +24,18 @@ INSEE_inflation.xlsx : Données de l'INSEE sur l'inflation, utilisées pour ajus
 
 final_dataframe.csv : Jeu de données final consolidé, résultant des différentes étapes de traitement et d'analyse.
 
-### Exécution des scripts : 
+## Exécution des scripts : 
 Les plusieurs dossiers qui composent le repertoire pourront être examinées de la façon suivante : 
 
-I- TRI API Processing
-II- TRI Shapefile Processing
-III - DVF Processing
-IV - Main : Analyse descriptives des transactions immobilières dans le Gard.
-V- Visualisation
+#I- TRI API Processing //
+#II- TRI Shapefile Processing // 
+#III - DVF Processing //
+#IV - Main : Analyse descriptives des transactions immobilières dans le Gard // 
+#V- Visualisation // 
 
 ## Contributeurs
 Jean JACOB,
 Félix DE GUERRE,
 Sofiene TAAMOUTI
+
+
