@@ -7,11 +7,11 @@ L'objectif principal est d'évaluer comment les risques d'inondation influencent
 ## Structure du Répertoire
 Le répertoire est organisé en plusieurs dossiers et fichiers principaux :
 
-DVF Processing/ : Scripts pour le traitement des données des "Demandes de Valeurs Foncières" (DVF).
+. DVF Processing/ : Scripts pour le traitement des données des "Demandes de Valeurs Foncières" (DVF).
 
 Shapefile processing/ : Scripts pour le traitement des fichiers shapefile contenant des données géographiques.
 
-TRI API Processing/ : Scripts pour l'extraction et le traitement des données via l'API des Territoires à Risque d'Inondation (TRI).
+[lien](https://github.com/Jeanjacob20/Python-For-Data-Science-Project/tree/main/TRI%20API%20Processing%20) : Scripts pour l'extraction et le traitement des données via l'API des Territoires à Risque d'Inondation (TRI).
 
 TRI Shapefile Processing/ : Scripts pour le traitement des shapefiles spécifiques aux zones TRI.
 
