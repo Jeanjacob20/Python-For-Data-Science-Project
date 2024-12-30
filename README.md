@@ -24,6 +24,8 @@ INSEE_inflation.xlsx : Données de l'INSEE sur l'inflation, utilisées pour ajus
 
 final_dataframe.csv : Jeu de données final consolidé, résultant des différentes étapes de traitement et d'analyse.
 
+Modélisation quantitative.ipynb : Fichier décrivant notre modélisation si nous avions pu la mener à terme.
+
 ## Exécution des scripts : 
 Les plusieurs dossiers qui composent le repertoire pourront être examinées de la façon suivante : 
 
