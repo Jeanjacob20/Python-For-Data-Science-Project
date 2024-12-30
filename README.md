@@ -7,24 +7,15 @@ L'objectif principal est d'évaluer comment les risques d'inondation influencent
 ## Structure du Répertoire
 Le répertoire est organisé en plusieurs dossiers et fichiers principaux :
 
-[TRI API Processing](https://github.com/Jeanjacob20/Python-For-Data-Science-Project/tree/main/TRI%20API%20Processing%20) : Scripts pour l'extraction et le traitement des données via l'API des Territoires à Risque d'Inondation (TRI).
+[I-TRI API Processing](https://github.com/Jeanjacob20/Python-For-Data-Science-Project/tree/main/TRI%20API%20Processing%20) : Scripts pour l'extraction et le traitement des données via l'API des Territoires à Risque d'Inondation (TRI).
 
-[TRI Shapefile Processing](https://github.com/Jeanjacob20/Python-For-Data-Science-Project/tree/main/TRI%20Shapefile%20Processing) : Scripts pour le traitement des shapefiles spécifiques aux zones TRI.
+[II-TRI Shapefile Processing](https://github.com/Jeanjacob20/Python-For-Data-Science-Project/tree/main/TRI%20Shapefile%20Processing) : Scripts pour le traitement des shapefiles spécifiques aux zones TRI.
 
-[DVF Processing]([https://github.com/Jeanjacob20/Python-For-Data-Science-Project/tree/main/TRI%20API%20Processing%20](https://github.com/Jeanjacob20/Python-For-Data-Science-Project/tree/main/DVF%20Processing)): Scripts pour le traitement des données des "Demandes de Valeurs Foncières" (DVF).
+[III-DVF Processing](https://github.com/Jeanjacob20/Python-For-Data-Science-Project/tree/main/DVF%20Processing): Scripts pour le traitement des données des "Demandes de Valeurs Foncières" (DVF).
 
-`API_Valeur_fonciere.ipyn` : Notebook Jupyter pour l'extraction des données foncières via une API dédiée.
+`IV-MAIN.ipyn` : Notebook Jupyter pour l'extraction des données foncières via une API dédiée.
 
-`Visualisation.ipynb` : Notebook contenant des visualisations des données traitées, illustrant l'impact des risques d'inondation sur les prix immobiliers.
-
-
-Calcul des prix en euro constant.ipynb : Notebook pour l'ajustement des prix immobiliers en euros constants, en tenant compte de l'inflation.
-
-INSEE_inflation.xlsx : Données de l'INSEE sur l'inflation, utilisées pour ajuster les prix.
-
-final_dataframe.csv : Jeu de données final consolidé, résultant des différentes étapes de traitement et d'analyse.
-
-Modélisation quantitative.ipynb : Fichier décrivant notre modélisation si nous avions pu la mener à terme.
+[W_Annexe](https://github.com/Jeanjacob20/Python-For-Data-Science-Project/tree/main/W_annexe) : contient le notebook `Calcul des prix en euro constant.ipynb` : Notebook pour l'ajustement des prix immobiliers en euros constants, en tenant compte de l'inflation. INSEE_inflation.xlsx : Données de l'INSEE sur l'inflation, utilisées pour ajuster les prix.
 
 ## Exécution des scripts : 
 Les plusieurs dossiers qui composent le repertoire pourront être examinées de la façon suivante : 
