@@ -28,8 +28,9 @@ Les plusieurs dossiers qui composent le repertoire pourront être examinées de 
 
 # IV - Main : Analyse descriptives des transactions immobilières dans le Gard
 
-# V- Visualisation
+# Pistes d'amélioration 
 
+Ce répertaire contient uniquement une partie de la modélisation du lien entre risque d'inondation et prix de l'immobilier. La poursuite de ce projet pourrait permettre de mettre en évidence un potentiel effet de corrélation entre ces deux variables suivant un modèle hédonique
 
 ## Contributeurs
 Jean JACOB,
