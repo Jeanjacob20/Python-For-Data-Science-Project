@@ -1,5 +1,5 @@
 # Python-For-Data-Science-Project
-Projet de programmation de 2ème Année à L'ENSAE portant sur l'impact des risques d'inondations sur le prix de l'immobilier.
+Projet de programmation de 2ème Année à L'ENSAE portant sur l'impact des risques d'inondation sur le prix de l'immobilier.
 
 ## Objectif du Projet
 L'objectif principal est d'évaluer comment les risques d'inondation influencent les prix de l'immobilier en France. En combinant des données géographiques sur les zones à risque et des données transactionnelles immobilières, le projet vise à identifier des corrélations significatives et à fournir des visualisations claires de ces relations.
